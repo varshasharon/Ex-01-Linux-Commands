@@ -292,15 +292,8 @@ chmod +x myscript.sh
 ## OUTPUT
 
 
-Configuration of Kali Linux on Oracle Virtual Box :
-
-![image](https://github.com/user-attachments/assets/c8cefd3c-b7b5-48fa-a2f6-85db776cf094)
-
-Output : 
-
-![image](https://github.com/user-attachments/assets/cc481926-bcfc-4901-b74d-7f5c76beabd5)
-![image](https://github.com/user-attachments/assets/ddc08a53-e155-4a5c-afa4-d4a9429696d3)
 ![image](https://github.com/user-attachments/assets/1f1be76d-8a8c-4eb2-a77e-53a0f4924a25)
+![image](https://github.com/user-attachments/assets/637ee69d-a4ff-4cf1-9f65-2d8095aed350)
 ![WhatsApp Image 2025-02-26 at 13 59 24_1c603799](https://github.com/user-attachments/assets/bdb5a52e-f093-4767-9cb1-0c4ffc8fe11f)
 ![WhatsApp Image 2025-02-26 at 13 59 32_6f105c88](https://github.com/user-attachments/assets/73eb14f7-96b1-4685-82de-234802e0831b)
 
