@@ -235,10 +235,7 @@ rmdir <dir>
 rm <file>  
 rm -r <dir>  
 cp <source> <destination>  
-mv <old> <new>  
-touch <file>  
-find <dir> -name <filename>  
-locate <filename>  
+
 ```
 
 ###  Writing a Bash Script in Mousepad
