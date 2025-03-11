@@ -194,36 +194,36 @@ Syntax:sort <file name>
 ### 26)	cal Command
 
 The cal command is used to display the current month's calendar with the current date highlighted.
-
+```
 Syntax: cal
-
+```
 
 ### 27)	clear Command
 
 Linux clear command is used to clear the terminal screen.
-
+```
 Syntax: clear
-
+```
 
 ### 28)	mail Command
 
 The mail command is used to send emails from the command line.
-
+```
 Syntax: mail -s "Subject" <recipient address>
-
+```
  
 ### 29)	df Command
 
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
-
-Syntax: df
-
+```
+df
+```
 ### 30)	find Command
 
 The find command is used to find a particular file within a directory.
-
-Syntax: find.-name”*.pdf”
-
+```
+find.-name”*.pdf”
+```
 
 ###  Writing a Bash Script in Mousepad
 #### Open Mousepad
