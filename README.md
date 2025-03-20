@@ -288,6 +288,7 @@ chmod +x myscript.sh
 
 ## OUTPUT
 
+Register number : 212222100058
 
 ![image](https://github.com/user-attachments/assets/1f1be76d-8a8c-4eb2-a77e-53a0f4924a25)
 ![image](https://github.com/user-attachments/assets/637ee69d-a4ff-4cf1-9f65-2d8095aed350)
